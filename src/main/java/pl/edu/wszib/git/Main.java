@@ -5,5 +5,7 @@ public class Main {
         System.out.println("git !!");
 
         System.out.println("drugi commit !!!");
+
+        System.out.println("trzeci commit !!!");
     }
 }
